@@ -1,0 +1,10 @@
+﻿  my_project.cpp
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(24,7): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(34,22): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(50,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(134,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(139,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(147,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(157,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\huynh\Desktop\my_project\my_project\my_project.cpp(238,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  my_project.vcxproj -> C:\Users\huynh\Desktop\my_project\Debug\my_project.exe
